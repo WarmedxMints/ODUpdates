@@ -1,7 +1,9 @@
 {
   "PatchNotes": [
-    "Added Exo Biological Check List"
+    "Bug fix - route distance displaying 0 when switching views",
+	"Adjusted Tooltip style",
+	"Added Continuous Route option"
   ],
-  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1",
-  "Version": "1.1"
+  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.1",
+  "Version": "1.1.1"
 }
