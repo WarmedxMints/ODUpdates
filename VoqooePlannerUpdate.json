@@ -1,9 +1,8 @@
 {
   "PatchNotes": [
-    "Added option to scan a new directory for commander data",
-	"Added option to reset database",
+    "Bug fix - Crash when scanning exo bio with the unsold list open",
   ],
-  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.2",
-  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.2/VoqooePlannerSetup_v1.1.2.exe",
-  "Version": "1.1.2"
+  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.2.1",
+  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.2.1/VoqooePlannerSetup_v1.1.2.1.exe",
+  "Version": "1.1.2.1"
 }
