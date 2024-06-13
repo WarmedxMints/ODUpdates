@@ -1,10 +1,9 @@
 {
   "PatchNotes": [
-    "Bug fix - route distance displaying 0 when switching views",
-	"Adjusted Tooltip style",
-	"Added Continuous Route option"
+    "Added option to scan a new directory for commander data",
+	"Added option to reset database",
   ],
-  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.1",
-  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.1/VoqooePlannerSetup.exe",
-  "Version": "1.1.1"
+  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.2",
+  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.2/VoqooePlannerSetup_v1.1.2.exe",
+  "Version": "1.1.2"
 }
