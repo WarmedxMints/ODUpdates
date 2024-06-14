@@ -1,9 +1,9 @@
 {
   "PatchNotes": [
-    "Bug fix - Potential softlock when scanning journals",
-	"Due to a potention bug it is recommend you go to settings and reset the database"
+    "Added support for legacy commanders",
+	  "If you have played in legacy it is recommend you go to settings and reset the database"
   ],
-  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.2.2",
-  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.2.2/VoqooePlannerSetup_v1.1.2.2.exe",
-  "Version": "1.1.2.2"
+  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.2.3",
+  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.2.3/VoqooePlannerSetup_v1.1.2.3.exe",
+  "Version": "1.1.2.3"
 }
