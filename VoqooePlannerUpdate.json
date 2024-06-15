@@ -1,9 +1,8 @@
 {
   "PatchNotes": [
-    "Added support for legacy commanders",
-	  "If you have played in legacy it is recommend you go to settings and reset the database"
+    "Added unsold voqooe carto data view"
   ],
-  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.2.3",
-  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.2.3/VoqooePlannerSetup_v1.1.2.3.exe",
-  "Version": "1.1.2.3"
+  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.3.0",
+  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.3.0/VoqooePlannerSetup_v1.1.3.0.exe",
+  "Version": "1.1.3.0"
 }
