@@ -1,8 +1,10 @@
 {
   "PatchNotes": [
-    "Added unsold voqooe carto data view"
+    "Added option to ignore systems from unsold carto data",
+    "Added option to set the age of unsold carto data",
+    "Reduced memory usage when parsing navigation data"
   ],
-  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.3.0",
-  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.3.0/VoqooePlannerSetup_v1.1.3.0.exe",
-  "Version": "1.1.3.0"
+  "Url": "https://github.com/WarmedxMints/VoqooePlanner/releases/tag/v1.1.3.1",
+  "FileUrl": "https://github.com/WarmedxMints/VoqooePlanner/releases/download/v1.1.3.1/VoqooePlannerSetup_v1.1.3.1.exe",
+  "Version": "1.1.3.1"
 }
