@@ -1,9 +1,9 @@
 {
   "PatchNotes": [
-    "Version 2.0.1",
-    "Bug fix - Potential crash when scanning old organic logs",
+    "Added optional notifications for bodies with biological or geological signals",
+    "They can be enabled in notification settings",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.1",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.1/ODExplorerSetup_v2.0.1.exe",
-  "Version": "2.0.1"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.2",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.2/ODExplorerSetup_v2.0.2.exe",
+  "Version": "2.0.2"
 }
