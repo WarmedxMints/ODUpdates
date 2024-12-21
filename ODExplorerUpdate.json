@@ -1,8 +1,9 @@
 {
   "PatchNotes": [
-    "Version 2 release",
+    "Version 2.0.1",
+    "Bug fix - Potential crash when scanning old organic logs",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.0",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.0/ODExplorer-Portable.zip",
-  "Version": "2.0.0"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.1",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.1/ODExplorerSetup_v2.0.1.exe",
+  "Version": "2.0.1"
 }
