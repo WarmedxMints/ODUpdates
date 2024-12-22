@@ -1,9 +1,10 @@
 {
   "PatchNotes": [
-    "Added optional notifications for bodies with biological or geological signals",
-    "They can be enabled in notification settings",
+    "System names will now be highlighted in green if they have been previously visited",
+    "Added EDSM body percentage to the route view. This gives the percentage of bodies uploaded to EDSM for that system",
+    "Some corrections to exo predictions",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.2",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.2/ODExplorerSetup_v2.0.2.exe",
-  "Version": "2.0.2"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.3",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.3/ODExplorerSetup_v2.0.3.exe",
+  "Version": "2.0.3"
 }
