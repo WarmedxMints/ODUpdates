@@ -1,7 +1,7 @@
 {
   "PatchNotes": [
-      "Added option to hide body icon and ID number".
-      "Added vertical scrollbar to views".
+      "Added option to hide body icon and ID number",
+      "Added vertical scrollbar to views",
       "Bugfix - EDSM valuable bodies being displayed twice",
   ],
   "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.4",
