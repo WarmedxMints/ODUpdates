@@ -1,10 +1,10 @@
 {
   "PatchNotes": [
-    "System names will now be highlighted in green if they have been previously visited",
-    "Added EDSM body percentage to the route view. This gives the percentage of bodies uploaded to EDSM for that system",
-    "Some corrections to exo predictions",
+      "Added option to hide body icon and ID number".
+      "Added vertical scrollbar to views".
+      "Bugfix - EDSM valuable bodies being displayed twice",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.3",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.3/ODExplorerSetup_v2.0.3.exe",
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.4",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.4/ODExplorerSetup_v2.0.4.exe",
   "Version": "2.0.3"
 }
