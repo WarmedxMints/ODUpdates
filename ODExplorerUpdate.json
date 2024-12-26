@@ -1,10 +1,9 @@
 {
   "PatchNotes": [
-      "Added option to hide body icon and ID number",
-      "Added vertical scrollbar to views",
+      "Bugfix - Variant colour missing in data views",
       "Bugfix - EDSM valuable bodies being displayed twice",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.4",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.4/ODExplorerSetup_v2.0.4.exe",
-  "Version": "2.0.4"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.5",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.5/ODExplorerSetup_v2.0.5.exe",
+  "Version": "2.0.5"
 }
