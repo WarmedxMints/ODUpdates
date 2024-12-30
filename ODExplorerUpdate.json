@@ -1,7 +1,7 @@
 {
   "PatchNotes": [
       "Added species and variant count to the checklist display",
-      "Bugfix - Copy to clipboard not working when notifications are disabled",
+      "Bugfix : Copy to clipboard not working when notifications are disabled",
   ],
   "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.6",
   "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.6/ODExplorerSetup_v2.0.6.exe",
