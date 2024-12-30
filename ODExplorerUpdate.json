@@ -1,9 +1,9 @@
 {
   "PatchNotes": [
-      "Bugfix - Variant colour missing in data views",
-      "Bugfix - EDSM valuable bodies being displayed twice",
+      "Added species and variant count to the checklist display",
+      "Bugfix - Copy to clipboard not working when notifications are disabled".
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.5",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.5/ODExplorerSetup_v2.0.5.exe",
-  "Version": "2.0.5"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.6",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.6/ODExplorerSetup_v2.0.6.exe",
+  "Version": "2.0.6"
 }
