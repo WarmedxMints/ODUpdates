@@ -1,9 +1,9 @@
 {
   "PatchNotes": [
-      "Added species and variant count to the checklist display",
-      "Bugfix : Copy to clipboard not working when notifications are disabled",
+      "Added Spnsh CSV refuel system notification to galaxy plotter",
+      "Adjusted columns in Exobiology Overlay",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.6",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.6/ODExplorerSetup_v2.0.6.exe",
-  "Version": "2.0.6"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.7",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.7/ODExplorerSetup_v2.0.7.exe",
+  "Version": "2.0.7"
 }
