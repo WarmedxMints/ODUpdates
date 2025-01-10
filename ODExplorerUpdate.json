@@ -1,9 +1,8 @@
 {
   "PatchNotes": [
-      "Added Spnsh CSV refuel system notification to galaxy plotter",
-      "Adjusted columns in Exobiology Overlay",
+      "Organic Checklist now shows discovered when bio is codex scanned",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.7",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.7/ODExplorerSetup_v2.0.7.exe",
-  "Version": "2.0.7"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.8",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.8/ODExplorerSetup_v2.0.8.exe",
+  "Version": "2.0.8"
 }
