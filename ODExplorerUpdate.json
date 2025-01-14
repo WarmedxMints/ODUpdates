@@ -1,8 +1,9 @@
 {
   "PatchNotes": [
-      "Organic Checklist now shows discovered when bio is codex scanned",
+      "Bug fix - Potential crash in the organic checklist",      
+      "Bug fix - Codex scans overwriting sold state in checklist",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.8",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.8/ODExplorerSetup_v2.0.8.exe",
-  "Version": "2.0.8"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.8.1",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.8.1/ODExplorerSetup_v2.0.8.1.exe",
+  "Version": "2.0.8.1"
 }
