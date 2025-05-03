@@ -1,9 +1,10 @@
 {
   "PatchNotes": [
-      "Bug fix - Potential crash in the organic checklist",      
-      "Bug fix - Codex scans overwriting sold state in checklist",
+      "Added option to hide biology signal below a set value in the exo view",
+      "Added a semitransparent view for overlays and made the transparent mode click through (Hold shift when the mouse is over the popup to interact with it)",
+      "Made switching between accounts quicker (it no longer reads the same files again)"
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.8.1",
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.8.1/ODExplorerSetup_v2.0.8.1.exe",
-  "Version": "2.0.8.1"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.9",
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.9/ODExplorerSetup_v2.0.9.exe",
+  "Version": "2.0.9"
 }
