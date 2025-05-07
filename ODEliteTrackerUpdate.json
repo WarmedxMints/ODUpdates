@@ -1,11 +1,11 @@
 {
   "PatchNotes": [
-    "Added System, Station and Ship target notification",
-    "Window position is now stored and restored on loading (Position can be reset by pressing Left Ctrl + R",
-    "Added extra fields to the mission stacker view",
-    "Bugfix : Conflicts not updating in Bgs view, nor included in post",
+"Added option to sort colonisation items by remaining required",
+"Added create post button for Colonisation",
+"Added current bounty vouchers display to BGS view",
+"Bugfix : Potential crash when loading massacre stack view",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.1",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.1/ODEliteTracker_v1.1.exe",
-  "Version": "1.1"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.1.1",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.1.1/ODEliteTracker_v1.1.1.exe",
+  "Version": "1.1.1"
 }
