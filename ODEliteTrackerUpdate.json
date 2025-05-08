@@ -1,11 +1,9 @@
 {
   "PatchNotes": [
-"Added option to sort colonisation items by remaining required",
-"Added create post button for Colonisation",
-"Added current bounty vouchers display to BGS view",
-"Bugfix : Potential crash when loading massacre stack view",
+  "Added Material Trader view in BGS page",
+  "Bugfix - Some systems not showing in BGS View"
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.1.1",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.1.1/ODEliteTracker_v1.1.1.exe",
-  "Version": "1.1.1"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.1.2",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.1.2/ODEliteTracker_v1.1.2.exe",
+  "Version": "1.1.2"
 }
