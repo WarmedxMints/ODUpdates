@@ -1,9 +1,9 @@
 {
   "PatchNotes": [
-  "Added Material Trader view in BGS page",
-  "Bugfix - Some systems not showing in BGS View"
+  "Added Copy to Clipboard Notification",
+  "Bugfix - Crash when double-clicking on some tables"
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.1.2",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.1.2/ODEliteTracker_v1.1.2.exe",
-  "Version": "1.1.2"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.1.3",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.1.3/ODEliteTracker_v1.1.3.exe",
+  "Version": "1.1.3"
 }
