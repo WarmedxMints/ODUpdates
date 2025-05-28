@@ -1,9 +1,6 @@
 {
   "PatchNotes": [
-  "Added compass overlay",
-  "Added bookmark system for the compass",
-  "Added carrier difference to colonisation tables",
-  "Added active overlay list",
+  "Added Shopping List Overlay",
   ],
   "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.2",
   "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.2/ODEliteTracker_v1.3.2.exe",
