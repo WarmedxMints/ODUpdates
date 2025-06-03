@@ -1,8 +1,8 @@
 {
   "PatchNotes": [
-  "Added Shopping List Overlay",
+  "Added options to hide columns and headers in Shopping List and Colonisation Overlays",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.3",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.3/ODEliteTracker_v1.3.3.exe",
-  "Version": "1.3.3"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.4",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.4/ODEliteTracker_v1.3.4.exe",
+  "Version": "1.3.4"
 }
