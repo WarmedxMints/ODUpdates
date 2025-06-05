@@ -1,8 +1,9 @@
 {
   "PatchNotes": [
-  "Bug fix - potential failure to read carrier stock if the carrier has been sold and rebought",
+  "Changed the compass input box to display values in red if they are not valid",
+  "Tweaks to the compass target distance calculation",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.5",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.5/ODEliteTracker_v1.3.5.exe",
-  "Version": "1.3.5"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.6",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.6/ODEliteTracker_v1.3.6.exe",
+  "Version": "1.3.6"
 }
