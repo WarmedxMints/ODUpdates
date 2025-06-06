@@ -1,9 +1,10 @@
 {
   "PatchNotes": [
-  "Changed the compass input box to display values in red if they are not valid",
-  "Tweaks to the compass target distance calculation",
+  "Added sorting option to Massacre stacks",
+  "Fix - Settings are lost when updating",
+  "Fix - Globalisation issues with compass lat/lon input",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.6",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.6/ODEliteTracker_v1.3.6.exe",
-  "Version": "1.3.6"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.7",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.7/ODEliteTracker_v1.3.7.exe",
+  "Version": "1.3.7"
 }
