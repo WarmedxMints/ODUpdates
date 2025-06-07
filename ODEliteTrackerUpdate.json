@@ -1,9 +1,8 @@
 {
   "PatchNotes": [
-  "Fix - potential failure to remove a stack when it is the last active mission",
-  "Fix - potential crash when logging in with an incorrect CAPI commander",
+  "Fix - Potential incorrect assignment of ship murders",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.8",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.8/ODEliteTracker_v1.3.8.exe",
-  "Version": "1.3.8"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.9",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.9/ODEliteTracker_v1.3.9.exe",
+  "Version": "1.3.9"
 }
