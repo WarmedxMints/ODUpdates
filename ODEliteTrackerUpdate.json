@@ -1,8 +1,8 @@
 {
   "PatchNotes": [
-  "Fix - Potential incorrect assignment of ship murders",
+  "Fix - Potential crash on startup",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.9",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.9/ODEliteTracker_v1.3.9.exe",
-  "Version": "1.3.9"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.10",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.10/ODEliteTracker_v1.3.10.exe",
+  "Version": "1.3.10"
 }
