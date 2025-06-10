@@ -1,8 +1,10 @@
 {
   "PatchNotes": [
-  "Fix - Potential crash on startup",
+  "Added ground CZ settlements to BGS report",
+  "Added a button to reload the selected commander",
+  "Fix - Space CZs all being reported as high",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.10",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.10/ODEliteTracker_v1.3.10.exe",
-  "Version": "1.3.10"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.11",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.11/ODEliteTracker_v1.3.11.exe",
+  "Version": "1.3.11"
 }
