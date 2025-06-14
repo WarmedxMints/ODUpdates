@@ -1,9 +1,8 @@
 {
   "PatchNotes": [
-  "Added target system to massacre views",
-  "Massacre stacks are now split by target faction and system",
+  "Added Spansh CSV parser and overlay",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.3.12",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.3.12/ODEliteTracker_v1.3.12.exe",
-  "Version": "1.3.12"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.4.0",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.4.0/ODEliteTracker_v1.4.0.exe",
+  "Version": "1.4.0"
 }
