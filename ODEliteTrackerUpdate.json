@@ -1,11 +1,11 @@
 {
   "PatchNotes": [
-  "Stolen carrier stock is now marked",
-  "Stolen carrier stock is no longer included as valid stock for colonisation",
-  "Corrected station name in colonisation post",
-  "Fix - Previously purchased from locations not showing in the depot table",
+  "Added Mining view and overlays",
+  "Added station-specific icons to docked notifications",
+  "Fix - Carrier stock not updating when sold out",
+  "Adjustments to massacer stack calculations",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.4.1",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.4.1/ODEliteTracker_v1.4.1.exe",
-  "Version": "1.4.1"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.0",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.0/ODEliteTracker_v1.5.0.exe",
+  "Version": "1.5.0"
 }
