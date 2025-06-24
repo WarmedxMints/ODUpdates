@@ -1,8 +1,9 @@
 {
   "PatchNotes": [
-      "Tweaks to exobiology predictions"
+      "Added Roseum Sinuous Tubers scan value",
+      "Typo correction in Fleet Carrier Timer - Thanks, MaximilianHart",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/2.0.9.1",  
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/2.0.9.1/ODExplorerSetup_v2.0.9.1.exe",
-  "Version": "2.0.9.1"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/2.0.9.2",  
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/2.0.9.2/ODExplorerSetup_v2.0.9.2.exe",
+  "Version": "2.0.9.2"
 }
