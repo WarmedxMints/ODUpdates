@@ -1,9 +1,9 @@
 {
   "PatchNotes": [
-    "Added support for Panther Clipper MK 2",
-    "Added support for Spansh Colonistion Plotter CSV"
+    "Added splitters to Massacre, Trade, Colonisation, and Fleet carrier views",
+    "Squashed some bugs"
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.2",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.2/ODEliteTracker_v1.5.2.exe",
-  "Version": "1.5.2"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.3",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.3/ODEliteTracker_v1.5.3.exe",
+  "Version": "1.5.3"
 }
