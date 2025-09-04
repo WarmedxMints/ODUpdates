@@ -1,12 +1,10 @@
 {
   "PatchNotes": [
-    "Added option to sort bounty vouchers by system factions",
-    "Corrected icons in material traders view",
-    "Added tooltips to navigation buttons",
-    "Added total to construction deopt output",
-    "Added settlement activity display",
+    "Added options to ignore systems in BGS report",
+    "Corrected material trader copy to clipboard icons",
+    "Tweaks to merits breakdown assignment",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.6",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.6/ODEliteTracker_v1.5.6.exe",
-  "Version": "1.5.6"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.7",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.7/ODEliteTracker_v1.5.7.exe",
+  "Version": "1.5.7"
 }
