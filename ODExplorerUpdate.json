@@ -1,8 +1,10 @@
 {
   "PatchNotes": [
-      "Fix - Location not updating when jumping on a carrier",
+      "Bug fix - crash when closing pop out with the close button",
+      "Added option for new codex entries to be determined globally or by region"
+",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.9.3",  
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.9.3/ODExplorerSetup_v2.0.9.3.exe",
-  "Version": "2.0.9.3"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.9.4",  
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.9.4/ODExplorerSetup_v2.0.9.4.exe",
+  "Version": "2.0.9.4"
 }
