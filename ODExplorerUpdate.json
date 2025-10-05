@@ -1,9 +1,10 @@
 {
   "PatchNotes": [
-      "Bug fix - crash when closing pop-out with the close button",
-      "Added option for new codex entries to be determined globally or by region"
+      "Journal updates for version 4.2.1.1",
+      "Added first footfall icon (This will need to be enabled in settings for existing installs)",
+      "Bio values are now based on the new WasLogged field"
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.9.4",  
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.9.4/ODExplorerSetup_v2.0.9.4.exe",
-  "Version": "2.0.9.4"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.9.5",  
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.9.5/ODExplorerSetup_v2.0.9.5.exe",
+  "Version": "2.0.9.5"
 }
