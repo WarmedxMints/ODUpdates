@@ -1,9 +1,10 @@
 {
   "PatchNotes": [
-    "Added Dodec station type",
-    "Added optional audio notification for fleet carrier cooldown",
+    "Added Build Totals Tab to Colonisation View",
+    "Added Build Wishlist Tab to Colonisation View",
+    "Added highlighting on mouseover to Massacre Stack View",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.13",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.13/ODEliteTracker_v1.5.13.exe",
-  "Version": "1.5.13"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.14",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.14/ODEliteTracker_v1.5.14.exe",
+  "Version": "1.5.14"
 }
