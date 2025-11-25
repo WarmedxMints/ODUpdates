@@ -1,10 +1,8 @@
 {
   "PatchNotes": [
-    "Added Build Totals Tab to Colonisation View",
-    "Added Build Wishlist Tab to Colonisation View",
-    "Added highlighting on mouseover to Massacre Stack View",
+    "Added Colonisation Build Stats Table",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.14",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.14/ODEliteTracker_v1.5.14.exe",
-  "Version": "1.5.14"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.15",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.15/ODEliteTracker_v1.5.15.exe",
+  "Version": "1.5.15"
 }
