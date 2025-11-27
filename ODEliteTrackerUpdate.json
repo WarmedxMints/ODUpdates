@@ -1,8 +1,9 @@
 {
   "PatchNotes": [
-    "Added Colonisation Build Stats Table",
+    "Added option to export post to CSV",
+    "Added option to export build totals and wishlist",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.15",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.15/ODEliteTracker_v1.5.15.exe",
-  "Version": "1.5.15"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.16",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.16/ODEliteTracker_v1.5.16.exe",
+  "Version": "1.5.16"
 }
