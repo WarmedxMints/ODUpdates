@@ -1,10 +1,10 @@
 {
   "PatchNotes": [
-      "Journal updates for version 4.2.1.1",
-      "Added first footfall icon (This will need to be enabled in settings for existing installs)",
-      "Bio values are now based on the new WasLogged field"
+    "Changed behaviour when first run and no journal files are found",
+    "Added option to copy to system mnames to the clipboard from carto and exo history lists",
+    "Updates to exo predictions"
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.9.5",  
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.9.5/ODExplorerSetup_v2.0.9.5.exe",
-  "Version": "2.0.9.5"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.10",  
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.10/ODExplorerSetup_v2.0.10.exe",
+  "Version": "2.0.10"
 }
