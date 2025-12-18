@@ -1,8 +1,9 @@
 {
   "PatchNotes": [
-    "Added Caspian Explorer",
+    "Update to logic when no journal files are found",
+    "Update to bgs tick detection",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.17",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.17/ODEliteTracker_v1.5.17.exe",
-  "Version": "1.5.17"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.18",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.18/ODEliteTracker_v1.5.18.exe",
+  "Version": "1.5.18"
 }
