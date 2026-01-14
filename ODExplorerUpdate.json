@@ -1,10 +1,11 @@
 {
   "PatchNotes": [
-    "Changed behaviour when first run and no journal files are found",
-    "Added option to copy to system mnames to the clipboard from carto and exo history lists",
-    "Updates to exo predictions"
+    "Added option to minimise to the taskbar tray",
+    "Added functions to reset carto and exo values",
+    "Corrected estimated values to update when data is sold",
+    "Corrected global codex settings, ignoring species",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.10",  
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.10/ODExplorerSetup_v2.0.10.exe",
-  "Version": "2.0.10"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.11",  
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.11/ODExplorerSetup_v2.0.11.exe",
+  "Version": "2.0.11"
 }
