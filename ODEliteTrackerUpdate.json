@@ -1,9 +1,10 @@
 {
   "PatchNotes": [
-    "Added option to hide detected ticks",
-    "Changed notification offset to numeric input",
+    "Added commit crime notification",
+    "Added carrier stock and difference to trade mission totals",
+    "Bug fixes",
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.20",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.20/ODEliteTracker_v1.5.20.exe",
-  "Version": "1.5.20"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.21",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.21/ODEliteTracker_v1.5.21.exe",
+  "Version": "1.5.21"
 }
