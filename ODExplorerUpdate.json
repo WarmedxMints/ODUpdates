@@ -1,11 +1,8 @@
 {
   "PatchNotes": [
-    "Added option to minimise to the taskbar tray",
-    "Added functions to reset carto and exo values",
-    "Corrected estimated values to update when data is sold",
-    "Corrected global codex settings, ignoring species",
+    "Made notifications transparent to the mouse pointer",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.11",  
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.11/ODExplorerSetup_v2.0.11.exe",
-  "Version": "2.0.11"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.12",  
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.11/ODExplorerSetup_v2.0.12.exe",
+  "Version": "2.0.12"
 }
