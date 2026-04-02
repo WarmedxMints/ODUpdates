@@ -1,8 +1,9 @@
 {
   "PatchNotes": [
-    "Made notifications transparent to the mouse pointer",
+    "Exobiology predicts updates",
+    "Added copy to clipboard button to ED Asstro view",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.12",  
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.12/ODExplorerSetup_v2.0.12.exe",
-  "Version": "2.0.12"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.13",  
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.13/ODExplorerSetup_v2.0.13.exe",
+  "Version": "2.0.13"
 }
