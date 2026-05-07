@@ -1,9 +1,8 @@
 {
   "PatchNotes": [
-    "Exobiology prediction updates",
-    "Added copy to clipboard button to ED Astro view",
+    "Updates to exo predictions",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.13",  
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.13/ODExplorerSetup_v2.0.13.exe",
-  "Version": "2.0.13"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.14",  
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.14/ODExplorerSetup_v2.0.14.exe",
+  "Version": "2.0.14"
 }
