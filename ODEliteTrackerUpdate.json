@@ -1,9 +1,8 @@
 {
   "PatchNotes": [
-    "Added Conflict Zone breakdown in BGS view",
-    "Added market checks to counter bugs introduced with the Kestrel update"
+    "Added Lynx Highliner"
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.23",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.23/ODEliteTracker_v1.5.23.exe",
-  "Version": "1.5.23"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.24",
+  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.24/ODEliteTracker_v1.5.24.exe",
+  "Version": "1.5.24"
 }
