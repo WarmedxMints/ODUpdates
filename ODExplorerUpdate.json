@@ -1,8 +1,9 @@
 {
   "PatchNotes": [
-    "Updates to exo predictions",
+    "Updates to journal reader for operations update",
+    "Updates to CSV parser",
   ],
-  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.14",  
-  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.14/ODExplorerSetup_v2.0.14.exe",
-  "Version": "2.0.14"
+  "Url": "https://github.com/WarmedxMints/OD-Explorer/releases/tag/v2.0.15",  
+  "FileUrl": "https://github.com/WarmedxMints/OD-Explorer/releases/download/v2.0.15/ODExplorerSetup_v2.0.15.exe",
+  "Version": "2.0.15"
 }
