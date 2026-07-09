@@ -1,8 +1,10 @@
 {
   "PatchNotes": [
-    "Bugfix - Unable to remove depot from shopping list after renaming during build"
+    "Updates to journal reader for operations update",
+    "Updates to CSV parser",
+    "Updated BGS system state display"
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.25",
-  "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.25/ODEliteTracker_v1.5.25.exe",
-  "Version": "1.5.25"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.26",
+ "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.26/ODEliteTracker_v1.5.26.exe",
+  "Version": "1.5.26"
 }
