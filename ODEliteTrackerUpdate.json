@@ -1,8 +1,12 @@
 {
   "PatchNotes": [
-    "Bugfix - Mission lists being cleared when starting an operation"
+    "Added Spansh refuel system notification",
+    "Added estimated time remaining to Spansh fleet carrier router view",
+    "Changed market watchlist selection to a dropdown",
+    "Added optional station market to market watchlist overlay",
+    "Added Colonisation route planner"
   ],
-  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.27",
- "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.27/ODEliteTracker_v1.5.27.exe",
-  "Version": "1.5.27"
+  "Url": "https://github.com/WarmedxMints/ODEliteTracker/releases/tag/1.5.30",
+ "FileUrl": "https://github.com/WarmedxMints/ODEliteTracker/releases/download/1.5.30/ODEliteTracker_v1.5.30.exe",
+  "Version": "1.5.30"
 }
